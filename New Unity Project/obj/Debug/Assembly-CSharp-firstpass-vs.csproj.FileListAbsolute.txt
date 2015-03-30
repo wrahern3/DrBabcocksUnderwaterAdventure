@@ -1,0 +1,13 @@
+D:\Unity\Projects\JamesDinkingAround\New Unity Project\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+D:\Unity\Projects\JamesDinkingAround\New Unity Project\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+D:\Unity\Projects\JamesDinkingAround\New Unity Project\Temp\bin\Debug\UnityEditor.dll
+D:\Unity\Projects\JamesDinkingAround\New Unity Project\Temp\bin\Debug\UnityEngine.dll
+D:\Unity\Projects\JamesDinkingAround\New Unity Project\Temp\bin\Debug\UnityEngine.UI.dll
+D:\Unity\Projects\JamesDinkingAround\New Unity Project\Temp\bin\Debug\Mono.Cecil.dll
+D:\Unity\Projects\JamesDinkingAround\New Unity Project\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\Unity\Projects\JamesDinkingAround\New Unity Project\Temp\bin\Debug\Unity.DataContract.dll
+D:\Unity\Projects\JamesDinkingAround\New Unity Project\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+D:\Unity\Projects\JamesDinkingAround\New Unity Project\Temp\bin\Debug\Unity.CecilTools.dll
+D:\Unity\Projects\JamesDinkingAround\New Unity Project\obj\Debug\Assembly-CSharp-firstpass-vs.csprojResolveAssemblyReference.cache
+D:\Unity\Projects\JamesDinkingAround\New Unity Project\obj\Debug\Assembly-CSharp-firstpass.dll
+D:\Unity\Projects\JamesDinkingAround\New Unity Project\obj\Debug\Assembly-CSharp-firstpass.pdb
